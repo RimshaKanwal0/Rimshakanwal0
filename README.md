@@ -13,7 +13,6 @@
 ##  What I’m Working On
 
 - 🔭 Developing **data engineering and analytics solutions** using Python, SQL, and Apache Spark  
-- 🔬 Researching and implementing **LLM-powered tools** for intelligent automation  
 - 📊 Building dashboards and analytics pipelines for real-time insights
 
 ---
@@ -23,6 +22,7 @@
 - 🤖 **AI/ML-based data products**  
 - ⏱️ **Real-time streaming pipelines**  
 - ⚙️ **Cloud-native platforms & open-source contributions**
+- 📊 **Data Analytics**
 
 ---
 
@@ -91,11 +91,14 @@ I transform hidden inefficiencies into powerful automated solutions—so you nev
 
 ![Seaborn](https://img.shields.io/badge/Seaborn-011C26?style=flat&logo=python)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi)
 
 
 ---
 
-## ☕ Support My Work
+### 💬 Contact Me
+Let's connect and collaborate!
+📨 Reach me on Slack: 
+![Slack](https://img.shields.io/badge/Contact%20me%20with-Slack-4A154B?style=flat&logo=slack)
 
-If you find my work helpful or inspiring, feel free to support me here:  
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/)
+**Thank You** 
