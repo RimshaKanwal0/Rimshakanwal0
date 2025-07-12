@@ -12,7 +12,7 @@
 
 ##  What I’m Working On
 
-- 🔭 Developing **data engineering and analytics solutions** using Python, SQL, and Apache Spark  
+- 🔭 Developing **data engineering and analytics solutions** using Python, SQL, and Apache Spark & AWS cloud
 - 📊 Building dashboards and analytics pipelines for real-time insights
 
 ---
