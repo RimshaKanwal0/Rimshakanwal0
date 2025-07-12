@@ -19,13 +19,13 @@
 
 ##  Open to Collaborate
 
+- 📊 **Data Analytics & Attractive Dashboards**
 - 🤖 **AI/ML-based data products**  
 - ⏱️ **Real-time streaming pipelines**  
 - ⚙️ **Cloud-native platforms & open-source contributions**
-- 📊 **Data Analytics**
+
 
 ---
-
 ##  Currently Learning
 
 - ☁️ **AWS Cloud Services** (Lambda, Glue, S3, Redshift)  
