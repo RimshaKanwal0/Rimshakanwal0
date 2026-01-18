@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rimsha Kanwal</h1>
 <h3 align="center">
-AI/ML Engineer | LLMs & RAG | Data Engineering & AWS | Building Production-Ready AI Systems
+AI/ML Engineer | LLMs & RAG | Data Eng. & AWS | Building Production-Ready AI Systems
 </h3>
 
 <p align="center">
