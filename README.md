@@ -20,32 +20,32 @@ AI/ML Engineer | LLMs & RAG | Data Engineering & AWS | Building Production-Ready
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
-I am an **AI/ML Engineer** with strong hands-on experience in **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI agents**, and **Data Engineering on AWS**.
+I am an **AI/ML Engineer** with strong hands-on experience in **LLMs/RAG, AI agents**, and **Data Engineering on AWS**.
 
 I specialize in:
 - Turning ML & LLM prototypes into **scalable, cloud-ready applications**
 - Designing **end-to-end AI pipelines** (data → model → deployment)
 - Building **production-grade systems** using Docker, AWS, and modern ML tooling
 
-🎯 Actively seeking roles in **AI Engineer, ML Engineer, Data Engineer, or Generative AI Engineer**.
+ Actively seeking roles in **AI Engineer, ML Engineer, Data Engineer, or Generative AI Engineer**.
 
 ---
 
-## 🔥 Core Focus Areas
+##  Core Focus Areas
 
-- 🤖 **LLMs & Generative AI** (RAG, Chatbots, AI Agents)
-- 🧠 **Machine Learning & Deep Learning**
-- 🧩 **Data Engineering & ETL Pipelines**
-- ☁️ **AWS Cloud & MLOps**
-- 🚀 **Production Deployment & Scaling**
+-  **LLMs & Generative AI** (RAG, Chatbots, AI Agents)
+-  **Machine Learning & Deep Learning**
+-  **Data Engineering & ETL Pipelines**
+-  **AWS Cloud & MLOps**
+-  **Production Deployment & Scaling**
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🔹 LLM & RAG Systems
+###  LLM & RAG Systems
 - **YouTube Transcript Q&A System (RAG + LLM)**  
   → Built an end-to-end RAG pipeline using **FAISS, OpenAI API, LoRA fine-tuned GPT-Neo**  
   → Converts YouTube videos into searchable AI-powered knowledge bases  
@@ -57,7 +57,7 @@ I specialize in:
 
 ---
 
-### 🔹 Machine Learning & Computer Vision
+###  Machine Learning & Computer Vision
 - **Sleep Disorder Prediction (94% Accuracy)**  
   → ML & DL models (Random Forest, SVM, DNN)  
   → Health & lifestyle dataset with feature engineering  
@@ -72,56 +72,56 @@ I specialize in:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 🧠 AI / ML / LLMs
+###  AI / ML / LLMs
 - Python, PyTorch, Scikit-learn
 - Hugging Face, Transformers
 - LLMs, RAG, FAISS, LangChain
 - NLP, CV (YOLOv5)
 
-### 📊 Data Engineering
-- SQL, Pandas, NumPy
+###  Data Engineering
+- SQL, Pandas, NumPy, Airflow
 - ETL / ELT Pipelines
 - Apache Airflow (learning)
 - Data Modeling & Optimization
 
-### ☁️ Cloud & MLOps
+###  Cloud & MLOps
 - AWS (EC2, S3, RDS, Lambda, Glue – learning)
 - Docker & Docker Compose
 - CI/CD fundamentals
 - Model deployment & monitoring
 
-### 🗃️ Databases
+###  Databases
 - PostgreSQL
 - MongoDB
 - MySQL
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
-- 🔹 **Advanced AWS Data Services** (Glue, Redshift, Lambda)
-- 🔹 **LLMOps & MLOps** (model lifecycle, monitoring)
-- 🔹 **Scalable Data Pipelines** (Airflow, DBT)
-- 🔹 **Agentic AI architectures**
+-  **Advanced AWS Data Services** (Glue, Redshift, Lambda)
+-  **LLMOps & MLOps** (model lifecycle, monitoring)
+-  **Scalable Data Pipelines** (Airflow, DBT)
+-  **Agentic AI architectures**
 
 ---
 
-## 📝 Writing & Knowledge Sharing
+##  Writing & Knowledge Sharing
 
-- ✍️ **Medium**:  
+-  **Medium**:  
   Writing about **RAG systems, AWS deployments, data pipelines, and AI engineering best practices**
 
 ---
 
-## 📬 Let’s Connect
+##  Let’s Connect
 
-- 📧 Email: **rimshakanwal7110@gmail.com**
-- 🔗 LinkedIn: https://www.linkedin.com/in/rimsha-kanwal-02a664309/
-- 💻 GitHub: https://github.com/RimshaKanwal0
+-  Email: **rimshakanwal7110@gmail.com**
+-  LinkedIn: https://www.linkedin.com/in/rimsha-kanwal-02a664309/
+-  GitHub: https://github.com/RimshaKanwal0
 
 ---
 
-⚡ **Fun Fact:**  
+ **Fun Fact:**  
 I love turning complex AI ideas into **simple, scalable, production-ready systems**.
