@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Rimsha Kanwal 👋</h1>
 
-<h3 align="center">AI Engineer | LLM Applications, RAG & AI Agents</h3>
+<h3 align="center">AI Engineer </h3>
 
 <p align="center">
   I build document intelligence and conversational AI systems, with a focus on retrieval quality, grounded answers and deployment on AWS.
