@@ -22,22 +22,45 @@
 
 ---
 
-## Featured project
+## Top projects
 
-### [DocuMind AI: Agentic Multimodal Document Intelligence](https://github.com/RimshaKanwal0/DocuMind_AI_)
+> 🔒 These repositories are private. Code walkthroughs and demos are available on request.
 
+### 📄 DocuMind AI: Agentic Multimodal Document Intelligence
 Ask questions about PDFs (text, tables, charts and scanned pages) and get answers cited to the exact page, with the source highlighted.
-
 - **Agentic RAG:** a tool-calling LLM agent that searches, reads tables, calculates exactly and inspects charts with a vision model
-- **Hybrid retrieval:** BM25 + **pgvector**, fused with Reciprocal Rank Fusion, then a **fine-tuned PyTorch cross-encoder** (top-1 retrieval **37.9% → 62.1%** on unseen documents)
-- **Grounding:** citation validation, plus an LLM-as-judge verifier in Agent mode
-- **Engineering:** FastAPI · PostgreSQL + pgvector (HNSW) · background workers · 63 tests
+- **Hybrid retrieval:** BM25 + **pgvector** fused with Reciprocal Rank Fusion, then a **fine-tuned PyTorch cross-encoder** (top-1 retrieval **37.9% → 62.1%** on a held-out synthetic set)
+- **Grounding and engineering:** citation validation, an LLM-as-judge verifier, FastAPI, PostgreSQL + pgvector (HNSW), background workers, 63 tests
 
 `Python` `OpenAI` `PyTorch` `pgvector` `FastAPI` `PostgreSQL` `Docker`
 
+### 🎙️ AI Voice Agent: Hospital Receptionist
+A voice assistant that answers callers' questions about a hospital and manages their appointments in real time.
+- **Tool-calling voice agent** on Vapi: speech-to-text (Deepgram) → GPT-4o → ElevenLabs voice, with ~875 ms average latency reported by Vapi
+- **Four API tools** served by FastAPI: knowledge-base Q&A with RAG, plus booking, listing and cancelling appointments
+- **RAG** over the hospital knowledge base with source-cited answers, a local fallback without an LLM key, and automated tests
+
+`Python` `FastAPI` `Vapi` `OpenAI` `RAG` `SQLAlchemy` `Streamlit`
+
+### 🧠 LoRA-RAG Chatbot: Fine-Tuned Document Q&A
+Question answering over research PDFs that combines a fine-tuned small LLM with retrieval.
+- Generates a **synthetic question–answer dataset** from PDF chunks
+- **Fine-tunes GPT-Neo 125M with LoRA** (parameter-efficient fine-tuning)
+- **RAG inference** with `all-MiniLM-L6-v2` embeddings and a **FAISS** vector store
+
+`Python` `LoRA / PEFT` `Hugging Face` `FAISS` `LangChain`
+
+### 🎬 RAGTube: YouTube Transcript Q&A
+Turns YouTube videos into a searchable knowledge base you can chat with.
+- Fetches **transcripts automatically**, chunks them with overlap and embeds them with the OpenAI API
+- Stores vectors in **FAISS**, skipping near-duplicates with a similarity threshold
+- Answers questions in real time with a **LoRA fine-tuned GPT-Neo**
+
+`Python` `OpenAI` `FAISS` `LoRA` `RAG`
+
 ---
 
-## Projects
+## More projects (public)
 
 ### 🤖 LLMs, NLP & RAG
 
