@@ -24,8 +24,6 @@
 
 ## Top projects
 
-> 🔒 These repositories are private. Code walkthroughs and demos are available on request.
-
 ### 📄 DocuMind AI: Agentic Multimodal Document Intelligence
 Ask questions about PDFs (text, tables, charts and scanned pages) and get answers cited to the exact page, with the source highlighted.
 - **Agentic RAG:** a tool-calling LLM agent that searches, reads tables, calculates exactly and inspects charts with a vision model
