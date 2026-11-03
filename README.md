@@ -3,7 +3,7 @@
 <h3 align="center">AI Engineer </h3>
 
 <p align="center">
-  I build document intelligence and conversational AI systems, with a focus on retrieval quality, grounded answers and deployment on AWS.
+  I build multi-agent AI, document intelligence and conversational systems, with a focus on useful workflows, grounded answers and deployment on AWS.
 </p>
 
 <p align="center">
@@ -11,18 +11,42 @@
   <a href="https://www.linkedin.com/in/rimsha-kanwal-02a664309/"><img src="https://img.shields.io/badge/LinkedIn-Rimsha_Kanwal-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://discord.com/users/1485359820889526272"><img src="https://img.shields.io/badge/Discord-Message_me-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://medium.com/@rimshakanwal7110"><img src="https://img.shields.io/badge/Medium-Articles-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://rimshakanwal0.github.io/"><img src="https://img.shields.io/badge/Portfolio-Website-3155A4?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio website"></a>
   <img src="https://img.shields.io/badge/Based_in-Pakistan-2E7D32?style=flat-square" alt="Based in Pakistan">
 </p>
 
 ## About me
 
-I'm an AI engineer building LLM applications that turn unstructured information into useful, source-backed answers.
+I'm an AI engineer building LLM applications, multi-agent workflows and retrieval systems that turn information into useful answers and actions.
 
-My work spans retrieval pipelines, tool-calling agents, model fine-tuning and backend development with Python, FastAPI, PostgreSQL and AWS. I evaluate what I build with retrieval benchmarks and automated tests, and I document the limitations.
+My work spans retrieval pipelines, tool-calling agents, model fine-tuning and backend development with Python, FastAPI, PostgreSQL and AWS. I evaluate what I build with retrieval benchmarks and automated tests, and I document the limitations. You can explore my work on my [portfolio website](https://rimshakanwal0.github.io/).
 
 **Open to opportunities:** AI Engineer · Generative AI Engineer · Machine Learning Engineer
 
 ## Featured projects
+
+### ✈️ AI Travel Planner: Multi-Agent Travel Planning
+
+An AI travel-planning application that routes a request through a LangGraph supervisor and selected flight, hotel, weather, budget and itinerary agents.
+
+- Integrated MCP tools for Tavily search, AviationStack flight information and OpenWeather conditions.
+- Added input guardrails, a human review step and PostgreSQL checkpoints so a draft can pause and resume after feedback.
+- Built a FastAPI web interface for generating and reviewing itineraries.
+
+**Stack:** Python · LangGraph · LangChain · MCP · Groq · FastAPI · PostgreSQL
+
+**Code:** Private repository; available on request.
+
+![AI Travel Planner workflow](assets/ai-travel-planner-cover.png)
+
+### 🌐 [Portfolio Website](https://rimshakanwal0.github.io/)
+
+A personal site presenting my AI engineering projects, skills and contact information.
+
+- Built with HTML, CSS and JavaScript and published through GitHub Pages.
+- Kept project and profile content in `data.js` so the site is easy to update.
+
+**Source:** [RimshaKanwal0.github.io](https://github.com/RimshaKanwal0/RimshaKanwal0.github.io)
 
 ### 📄 DocuMind AI: Multimodal Document Intelligence
 
@@ -103,6 +127,7 @@ A final-year project combining financial news ingestion, sentiment analysis, for
 
 | Area | Technologies |
 |---|---|
+| **Agent orchestration** | LangGraph · MCP · Groq · supervisor routing · human-in-the-loop workflows |
 | **LLMs & agents** | OpenAI API · tool calling · RAG · Hugging Face Transformers · LangChain · LoRA / PEFT |
 | **Retrieval & evaluation** | pgvector · FAISS · ChromaDB · BM25 · Reciprocal Rank Fusion · cross-encoder reranking · LLM-as-judge |
 | **Machine learning** | PyTorch · Scikit-learn · TensorFlow / Keras · NLP · transformer fine-tuning |
@@ -124,5 +149,8 @@ I share practical lessons on RAG systems, AWS deployments, data pipelines and AI
   <b>Let's build reliable AI systems.</b><br>
   <a href="mailto:rimshakanwal7110@gmail.com">Email</a> ·
   <a href="https://www.linkedin.com/in/rimsha-kanwal-02a664309/">LinkedIn</a> ·
+  <a href="https://rimshakanwal0.github.io/">Portfolio</a> ·
   <a href="https://discord.com/users/1485359820889526272">Discord</a>
 </p>
+
+<sub>Profile updated 4 November 2026.</sub>
