@@ -19,7 +19,7 @@
 
 I'm an AI engineer building LLM applications, multi-agent workflows and retrieval systems that turn information into useful answers and actions.
 
-My work spans retrieval pipelines, tool-calling agents, model fine-tuning and backend development with Python, FastAPI, PostgreSQL and AWS. I evaluate what I build with retrieval benchmarks and automated tests, and I document the limitations. You can explore my work on my [portfolio website](https://rimshakanwal0.github.io/).
+My work spans retrieval pipelines, tool-calling agents, model fine-tuning and backend development with Python, FastAPI, PostgreSQL and AWS. I evaluate what I build with retrieval benchmarks and automated tests, and I document the limitations. 
 
 **Open to opportunities:** AI Engineer · Generative AI Engineer · Machine Learning Engineer
 
@@ -34,19 +34,6 @@ An AI travel-planning application that routes a request through a LangGraph supe
 - Built a FastAPI web interface for generating and reviewing itineraries.
 
 **Stack:** Python · LangGraph · LangChain · MCP · Groq · FastAPI · PostgreSQL
-
-**Code:** Private repository; available on request.
-
-![AI Travel Planner workflow](assets/ai-travel-planner-cover.png)
-
-### 🌐 [Portfolio Website](https://rimshakanwal0.github.io/)
-
-A personal site presenting my AI engineering projects, skills and contact information.
-
-- Built with HTML, CSS and JavaScript and published through GitHub Pages.
-- Kept project and profile content in `data.js` so the site is easy to update.
-
-**Source:** [RimshaKanwal0.github.io](https://github.com/RimshaKanwal0/RimshaKanwal0.github.io)
 
 ### 📄 DocuMind AI: Multimodal Document Intelligence
 
