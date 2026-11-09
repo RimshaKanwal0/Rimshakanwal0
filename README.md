@@ -135,7 +135,6 @@ I share practical lessons on RAG systems, AWS deployments, data pipelines and AI
   <b>Let's build reliable AI systems.</b><br>
   <a href="mailto:rimshakanwal7110@gmail.com">Email</a> ·
   <a href="https://www.linkedin.com/in/rimsha-kanwal-02a664309/">LinkedIn</a> ·
-  <a href="https://rimshakanwal0.github.io/">Portfolio</a> ·
   <a href="https://discord.com/users/1485359820889526272">Discord</a>
 </p>
 
