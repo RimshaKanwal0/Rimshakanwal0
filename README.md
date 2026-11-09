@@ -11,7 +11,6 @@
   <a href="https://www.linkedin.com/in/rimsha-kanwal-02a664309/"><img src="https://img.shields.io/badge/LinkedIn-Rimsha_Kanwal-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://discord.com/users/1485359820889526272"><img src="https://img.shields.io/badge/Discord-Message_me-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://medium.com/@rimshakanwal7110"><img src="https://img.shields.io/badge/Medium-Articles-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
-  <a href="https://rimshakanwal0.github.io/"><img src="https://img.shields.io/badge/Portfolio-Website-3155A4?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio website"></a>
   <img src="https://img.shields.io/badge/Based_in-Pakistan-2E7D32?style=flat-square" alt="Based in Pakistan">
 </p>
 
